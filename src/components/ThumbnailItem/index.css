@@ -1,0 +1,17 @@
+/* Write your code here. */
+.button {
+  outline: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.active-btn {
+  opacity: 1;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+}
